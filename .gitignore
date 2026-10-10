@@ -1,0 +1,8 @@
+.env
+.env.*
+*.db
+*.db-journal
+*.sqlite
+*.pdf
+*.docx
+node_modules/

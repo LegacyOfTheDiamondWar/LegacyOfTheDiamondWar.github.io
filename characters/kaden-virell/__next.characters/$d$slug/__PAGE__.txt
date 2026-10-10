@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],""]
+3:I[5014,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],"default"]
+4:I[60175,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],"default"]
+5:I[74038,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],"default"]
+6:I[69224,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],"IntroStagger"]
+7:I[69224,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js","/_next/static/chunks/0o8x7qnp4xqa2.js"],"IntroItem"]
+8:I[97367,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"MetadataBoundary"]
+c:X
+1f:X
+1f:C
+0:{"buildId":"drfCl1RKv9EO_Xj_Uq8AU","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-5 py-16","children":[["$","$L2",null,{"href":"/characters","className":"inline-flex items-center gap-2 text-sm text-ink-muted hover:text-diamond-soft","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":14}]," ",["$","$L4",null,{"section":"characters","k":"back"}]]}],["$","div",null,{"className":"mt-6 grid gap-10 lg:grid-cols-[0.8fr_1.2fr]","children":[["$","$L5",null,{"src":"/assets/characters/kaden-virell.jpg","alt":"Kaden Virell","element":"diamond"}],["$","div",null,{"children":[["$","$L6",null,{"children":[["$","$L7",null,{"className":"flex flex-wrap items-center gap-3","children":[["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs uppercase tracking-wide text-ink-muted","children":["$","$L4",null,{"section":"characters","k":"villain"}]}],["$","span",null,{"className":"rounded-full border border-line px-3 py-1 text-xs uppercase tracking-wide text-ink-muted","children":"War Lords"}],["$","span",null,{"className":"rounded-full border border-gold/40 px-3 py-1 text-xs uppercase tracking-wide text-gold","children":"General Rank 10, War Lords Clan"}]]}],["$","$L7",null,{"children":[["$","h1",null,{"className":"mt-4 font-display text-4xl font-bold text-ink-text","style":{"textShadow":"0 0 18px #6fd3ff90, 0 0 42px #6fd3ff40"},"children":"Kaden Virell"}],["$","p",null,{"className":"mt-1 text-lg text-gold","children":"The Hidden King"}],["$","p",null,{"className":"mt-1 text-sm text-ink-muted","children":["Former First General of the Blade Military",[" · ",["$","$L4",null,{"section":"characters","k":"age"}]," ",50]," · ","Future Sight / Sword Mastery"]}]]}],["$","$L7",null,{"children":["$","blockquote",null,{"className":"panel mt-6 rounded-lg border-l-2 p-5 italic","style":{"borderLeftColor":"#6fd3ff","color":"#bfeaff"},"children":["“","I saw your end before you drew your blade.","”"]}]}]]}],["$","div",null,{"className":"mt-8","children":[["$","h2",null,{"className":"font-display text-lg text-ink-text","children":["$","$L4",null,{"section":"characters","k":"story"}]}],["$","p",null,{"className":"mt-2 text-ink-muted","children":"Once the Blade Military's strongest general, Kaden sealed himself away in the Egke Cave to contain his growing power. Now released, unchained, and unseen, he returns not as a soldier, but as a king hidden in shadow, feared by War Lords, monsters, and even time itself."}]]}],"$undefined",["$","div",null,{"className":"mt-6","children":[["$","h2",null,{"className":"font-display text-lg text-ink-text","children":["$","$L4",null,{"section":"characters","k":"powers"}]}],["$","ul",null,{"className":"mt-2 space-y-2","children":[["$","li","0",{"className":"flex gap-2 text-sm text-ink-muted","children":[["$","span",null,{"className":"mt-1.5 h-1.5 w-1.5 flex-none rounded-full bg-diamond"}],"Future Sight — sees seconds ahead and alters the outcome before an opponent can strike."]}],["$","li","1",{"className":"flex gap-2 text-sm text-ink-muted","children":[["$","span",null,{"className":"mt-1.5 h-1.5 w-1.5 flex-none rounded-full bg-diamond"}],"Sword Mastery and Timeless Warrior: unaffected by age, time, or decay, wielding a colossal ancient blade."]}]]}]]}],["$","div",null,{"className":"mt-6","children":[["$","h2",null,{"className":"font-display text-lg text-ink-text","children":["$","$L4",null,{"section":"characters","k":"personality"}]}],["$","p",null,{"className":"mt-2 text-ink-muted","children":"Silent, calculating, and regal — commands without needing to speak."}]]}]]}]]}],false]}],[["$","script","script-0",{"src":"/_next/static/chunks/0o8x7qnp4xqa2.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Ld",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kaden Virell | Legacy of the Diamond War"}],["$","meta","1",{"name":"description","content":"I saw your end before you drew your blade."}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]}],"$L1b"]}],"isPartial":"$@1c","staleTime":"$c","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$c","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$c","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@22","rootVaryParams":null,"needsRuntimeRequest":"$@23"}
+24:I[27201,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"IconMark"]
+25:I[39756,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"default"]
+26:I[37457,["/_next/static/chunks/187qhiq8qb6oq.js","/_next/static/chunks/0_fexq4gxw39_.js","/_next/static/chunks/3miq9nji65z8a.js"],"default"]
+a:null
+f:["$","meta","2",{"name":"keywords","content":"Legacy of the Diamond War,The Eternal Multiverse Wars,Bahez Jange Hirany,The Diamond Lord,Izuna,fantasy novel"}]
+10:["$","meta","3",{"property":"og:title","content":"Legacy of the Diamond War | The Diamond Lord"}]
+11:["$","meta","4",{"property":"og:description","content":"The war has only begun... and the Diamond Lord will rise."}]
+12:["$","meta","5",{"property":"og:image","content":"https://legacyofthediamondwar.com/assets/front-cover.jpeg"}]
+13:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+14:["$","meta","7",{"name":"twitter:title","content":"Legacy of the Diamond War | The Diamond Lord"}]
+15:["$","meta","8",{"name":"twitter:description","content":"The war has only begun... and the Diamond Lord will rise."}]
+16:["$","meta","9",{"name":"twitter:image","content":"https://legacyofthediamondwar.com/assets/front-cover.jpeg"}]
+17:["$","link","10",{"rel":"shortcut icon","href":"/icon.svg"}]
+18:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+19:["$","link","12",{"rel":"icon","href":"/icon.svg"}]
+1a:["$","$L24","13",{}]
+1b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1d:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+23:true
+c:300
+c:C
+22:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+b:"$undefined"
