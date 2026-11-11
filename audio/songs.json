@@ -1,0 +1,18 @@
+{
+  "main": "hope-orchestral-battle.ogg",
+  "jungle": "hope-orchestral-battle.ogg",
+  "fire": "battle-theme-a.mp3",
+  "ice": "hope-orchestral-battle.ogg",
+  "lightning": "battle-theme-a.mp3",
+  "wind": "hope-orchestral-battle.ogg",
+  "water": "hope-orchestral-battle.ogg",
+  "earth": "battle-theme-a.mp3",
+  "shadow": "battle-theme-a.mp3",
+  "blood": "battle-theme-a.mp3",
+  "crystal": "hope-orchestral-battle.ogg",
+  "gold": "hope-orchestral-battle.ogg",
+  "machine": "fast-fight.ogg",
+  "beast": "battle-theme-a.mp3",
+  "cosmic": "symphonic-metal-boss.wav",
+  "war": "battle-theme-a.mp3"
+}
